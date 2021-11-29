@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register</h1>
-    <p>Enjoy this moment of testing 2.0</p>
+    <p>Enjoy this moment of testing 3.0</p>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
