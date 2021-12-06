@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register</h1>
-    <p>Kubernetes</p>
+    <p>Kubernetes 2.0 - Final Lab</p>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
