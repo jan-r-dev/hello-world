@@ -4,6 +4,8 @@
     <h1>New user Register</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
+    
+    <h1>One last for the road</h1>
      
     <label for="Name"><b>Email</b></label>
     <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
